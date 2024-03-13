@@ -9,7 +9,7 @@
 #### QS World University Rankings 2017 - 2022
 Discover and explore the world's leading academic institutions
 
-##### [Kaggle Data] (https://www.kaggle.com/padhmam/qs-world-university-rankings-2017-2022 )
+##### [Kaggle Data](https://www.kaggle.com/padhmam/qs-world-university-rankings-2017-2022)
 
 
 ### Tools
@@ -24,7 +24,3 @@ open CSV SerDe create table
 
 creating a SQL view to Simplify complex queries: 
 
-
-### References 
-
-]]]]
